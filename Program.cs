@@ -377,7 +377,7 @@ namespace EserciziPrimoGiorno
             while (Console.ReadKey().Key != ConsoleKey.Enter)
             {
                 Console.WriteLine("\nAttento: per uscire devi premere enter");
-            }
+            }        
         }
 
 
